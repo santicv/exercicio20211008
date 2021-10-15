@@ -1,2 +1,2 @@
-The MIT License (MIT)
+GPL v2
 Copyright (c) 2021 Cixug
